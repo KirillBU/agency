@@ -7,22 +7,6 @@ stepsOfWork[0].addEventListener('mousemove', function(){
     stepsOfWorkItem1.style.paddingLeft = "0";
     }) 
 
-// var Img2 = document.getElementById("img2");
-// Img2.addEventListener('mousemove', function(){ 
-//     var figcaption = document.createElement('figcaption');
-//     figcaption.innerHTML = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.";
-//     figcaption.classList.add("steps-of-work__text");
-//     Img2.appendChild(figcaption);  
-// })
-// var Img3 = document.getElementById("img3");
-// Img3.addEventListener('mousemove', function(){ 
-//     var stepsOfWorkTitle = document.getElementById("steps-of-work__title3");
-//     stepsOfWorkTitle.classList.remove("steps-of-work__subtitle-active");
-//     var figcaption = document.createElement('figcaption');
-//     figcaption.innerHTML = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.";
-//     figcaption.classList.add("steps-of-work__text");
-//     Img3.appendChild(figcaption);  
-// })
 
 $(document).ready(function() {
  
